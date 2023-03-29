@@ -1,6 +1,8 @@
 # Magic-cards
 Card matching memory game 
 
+https://classy-sopapillas-b58822.netlify.app
+
 
 
 ![mc-1](https://user-images.githubusercontent.com/82172257/226830904-3ab6d68a-533f-4d32-b8d6-a71ec9303654.PNG)
