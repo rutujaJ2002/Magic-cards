@@ -1,7 +1,7 @@
 # Magic-cards
 Card matching memory game 
 
-https://classy-sopapillas-b58822.netlify.app
+https://card-memo-game.netlify.app/
 
 
 
